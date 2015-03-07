@@ -1,2 +1,2 @@
 # hello-wrold
-need it
+print '你好'
